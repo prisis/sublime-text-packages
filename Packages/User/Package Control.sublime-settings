@@ -2,6 +2,8 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"0_package_control_loader",
+		"Markdown Preview",
 		"SelectUntil"
 	],
 	"installed_packages":
@@ -10,6 +12,7 @@
 		"All Autocomplete",
 		"Anaconda",
 		"anaconda_php",
+		"AndyPHP",
 		"AutoFileName",
 		"AutomaticFullscreen",
 		"Babel",
@@ -17,8 +20,8 @@
 		"CSS Extended Completions",
 		"CSS3",
 		"DocBlockr",
+		"EditorConfig",
 		"Emmet",
-		"GitGutter",
 		"Grunt",
 		"Gutter Color",
 		"HTML Boilerplate",
@@ -29,6 +32,7 @@
 		"JavaScript Completions",
 		"JavaScriptNext - ES6 Syntax",
 		"JSONLint",
+		"MarkdownEditing",
 		"Material Theme",
 		"Package Control",
 		"PHP Code Coverage",
@@ -47,16 +51,16 @@
 		"Stylus-Snippets",
 		"SublimeCodeIntel",
 		"SublimeLinter",
-		"SublimeLinter-contrib-htmlhint",
 		"SublimeLinter-contrib-jade-lint",
 		"SublimeLinter-contrib-sass-lint",
 		"SublimeLinter-contrib-scss-lint",
 		"SublimeLinter-csslint",
 		"SublimeLinter-jscs",
-		"SublimeLinter-json",
 		"SublimeLinter-php",
+		"Terminal",
 		"TrailingSpaces",
 		"Travis YML Lint",
-		"Travis-CI"
+		"Travis-CI",
+		"Whitespace"
 	]
 }

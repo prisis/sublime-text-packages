@@ -2,9 +2,10 @@
 	"always_show_minimap_viewport": true,
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+	"draw_white_space": "all",
 	"ignored_packages":
 	[
-		"SelectUntil",
+		"Markdown",
 		"Vintage"
 	],
 	"indent_guide_options":
