@@ -53,6 +53,7 @@ My Sublime Text 3 setup!
 "JSONLint",
 "MarkdownEditing",
 "Material Theme",
+"Origami",
 "Package Control",
 "PHP Code Coverage",
 "PHP Comment Wrap",
