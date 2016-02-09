@@ -1,0 +1,7 @@
+{
+    /*
+     * Path to composer binary.
+     * A relative path is relative to the composer.json file
+     */
+    "composer_command":  "composer",
+}

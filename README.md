@@ -5,9 +5,14 @@ My Sublime Text 3 setup!
 ~~~json
 {
     "always_show_minimap_viewport": true,
-    "bold_folder_labels": true,
     "color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
     "draw_white_space": "all",
+    "font_options":
+    [
+        "gray_antialias",
+        "subpixel_antialias"
+    ],
+    "font_size": 8,
     "ignored_packages":
     [
         "Markdown",
@@ -21,7 +26,15 @@ My Sublime Text 3 setup!
     "line_padding_bottom": 3,
     "line_padding_top": 3,
     "overlay_scroll_bars": "enabled",
-    "theme": "Material-Theme-Darker.sublime-theme"
+    "theme": "Material-Theme-Darker.sublime-theme",
+    "material_theme_tree_headings" : true,
+    "ensure_newline_at_eof_on_save": true,
+    "trim_trailing_white_space_on_save": true,
+    "translate_tabs_to_spaces": true,
+    "save_on_focus_lost": true,
+    "highlight_modified_tabs": true,
+    "class": "tabset_control",
+    "tab_height": 10
 }
 ~~~
 
@@ -36,6 +49,7 @@ My Sublime Text 3 setup!
 "AutomaticFullscreen",
 "Babel",
 "Bower",
+"Composer",
 "CSS Extended Completions",
 "CSS3",
 "DocBlockr",
@@ -53,6 +67,7 @@ My Sublime Text 3 setup!
 "JSONLint",
 "MarkdownEditing",
 "Material Theme",
+"Material Theme - Appbar",
 "Origami",
 "Package Control",
 "PHP Code Coverage",
@@ -71,12 +86,13 @@ My Sublime Text 3 setup!
 "Stylus-Snippets",
 "SublimeCodeIntel",
 "SublimeLinter",
-"SublimeLinter-contrib-jade-lint",
+"SublimeLinter-contrib-pug-lint",
 "SublimeLinter-contrib-sass-lint",
 "SublimeLinter-contrib-scss-lint",
 "SublimeLinter-csslint",
 "SublimeLinter-jscs",
 "SublimeLinter-php",
+"Terminal",
 "TrailingSpaces",
 "Travis YML Lint",
 "Travis-CI",
